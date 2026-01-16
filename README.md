@@ -11,7 +11,7 @@ Hangi kategori daha fazla kâr getiriyor? (Treemap analizi)
 
 Satış trendleri zamana göre nasıl değişiyor? (Yıllık ve aylık ciro analizi)
 
-##🛠 Kullanılan Teknolojiler
+## 🛠 Kullanılan Teknolojiler
 Veri Tabanı: SQL (PostgreSQL/MySQL) - Veri çekme ve View (Görünüm) oluşturma işlemleri için.
 
 Görselleştirme: Power BI - Dashboard ve raporlama için.
