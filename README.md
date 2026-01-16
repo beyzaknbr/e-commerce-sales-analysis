@@ -1,5 +1,4 @@
-# e-commerce-sales-analysis
-## 📊 E-Commerce Sales & Profitability Analysis
+# 📊 E-Ticaret Sitesi Satış Analizi
 Bu proje, bir e-ticaret sitesinin satış verilerini analiz etmek, ürün performansını ölçmek ve kategori bazlı kârlılık durumunu görselleştirmek amacıyla hazırlanmış bir Power BI ve SQL çalışmasıdır.
 
 ## 🚀 Proje Genel Bakış
